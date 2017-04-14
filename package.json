@@ -39,7 +39,7 @@
   "module": "./lib-dist/ng2-datepicker.module.js",
   "types": "./lib-dist/ng2-datepicker.module.d.ts",
   "peerDependencies": {
-    "@angular/common": ^"4.0.1",
+    "@angular/common": "^4.0.1",
     "@angular/core": "^4.0.1",
     "@angular/forms": "^4.0.1",
     "rxjs": ">=5.0.0 || >=5.0.0-beta",
